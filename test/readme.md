@@ -18,7 +18,7 @@ Back in 2012-2013, I took a class similar to this and had a lot of fun learning 
 
 ### My Resources
 
-`*HTML & CSS: Design and build websites* by **Duckett, J.**`
+```*HTML & CSS: Design and build websites* by **Duckett, J.**```
 
 [Intro to Web Design & Development](https://media-ed-online.github.io/intro-web-dev/)
 
