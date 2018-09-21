@@ -15,4 +15,4 @@ Version control is a system that keeps track of changes that have been made to a
 I didn't expierence many issues this round. I found it was pretty straight forward. I think the only thing I struggled with was if I moved things around, I sometimes forgot to relink them. So then I had to refind the file and relink to my ATOM or GitHub. But so far, I'm finding that ATOM is pretty easy to work with and it's pretty easy to problem solve.
 
 ## My Workstation:
-![screenshotofa2](./assignment-2/images/screenshot.png)
+![screenshotofa2](./assignment-2/images/a2screenshot.png)
