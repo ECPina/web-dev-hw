@@ -15,4 +15,4 @@ Version control is a system that keeps track of changes that have been made to a
 For some reason I'm constantly struggling with getting my images to appear on the readme on GitHub. Everytime, I forget how to link it and spend a lot of time freting over it. One day, I will remember the steps I've taken so that I don't tear my hair out over broken image links. Other than that, everything seemed pretty straightforward.
 
 ## My Workstation:
-![a2screenshot](./images/a2screenshot.png)
+![a2screenshot](/images/a2screenshot.png)
