@@ -17,7 +17,7 @@ For some reason I'm constantly struggling with getting my images to appear on th
 
 *Extra note: after looking at several examples, I realized I had a weirdspace in my image file. This just goes to show that it's important to double check how you name your files!*
 
-[README](/assignment-2/readme.md)
+[Responses](/assignment-2/responses.txt)
 
 ## My Workstation:
 
