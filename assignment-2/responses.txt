@@ -1,0 +1,15 @@
+# Assignment 1 Responses
+
+**1.) Briefly describe one way how data travels on the internet.**
+In order for information to travel across the internet, it is broken up into what we call "packets." Each of these packets can contain up to a max of 1,500 bytes. These bytes are wrapped in a header and footer, which act as an information pass that tells computers about the infromation inside the packet.
+
+**2.) What is the relationship between an IP address and the DNS?**
+An IP address, aka an *Internet Protocol address*, is a numerical label that is assigned to each device that is conneted to a computer network. This number acts as a host as well as a location address. The DNS, aka the Domain Name System, is what converts domain names to IP addresses. For example, everytime a domain name is typed into a browser, like Google.com for instance, it's automatically gets passed through to a DNS server. This server then translates the name to to it's corresponding IP address.
+
+**3.) What is a cookie?**
+While also a declious baked snack, *cookies* is a message that is used to identify users that is then given to the web browers by the web server. It collects information and then can store it where it can be used at a later time. For example, when your chrome autofills information for you in a form. There are different types of cookies that hold information for a different amout of time.
+
+**4.) List the the three basic parts of a URL.**
+- Protocol
+- Domain
+- Path
