@@ -1,4 +1,4 @@
-# Assignment 1 Responses
+## Assignment 1 Responses
 
 **1.) Briefly describe one way how data travels on the internet.**
 In order for information to travel across the internet, it is broken up into what we call "packets." Each of these packets can contain up to a max of 1,500 bytes. These bytes are wrapped in a header and footer, which act as an information pass that tells computers about the infromation inside the packet.
