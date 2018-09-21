@@ -12,7 +12,7 @@ Version control is a system that keeps track of changes that have been made to a
 - created readme for assignment 2
 
 *In Summary...*
-I didn't expierence many issues this round. I found it was pretty straight forward. I think the only thing I struggled with was if I moved things around, I sometimes forgot to relink them. So then I had to refind the file and relink to my ATOM or GitHub. But so far, I'm finding that ATOM is pretty easy to work with and it's pretty easy to problem solve.
+For some reason I'm constantly struggling with getting my images to appear on the readme on GitHub. Everytime, I forget how to link it and spend a lot of time freting over it. One day, I will remember the steps I've taken so that I don't tear my hair out over broken image links. Other than that, everything seemed pretty straightforward.
 
 ## My Workstation:
-![screenshotofa2](./assignment-2/images/a2screenshot.png)
+![a2screenshot](./images/a2screenshot.png)
