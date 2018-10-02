@@ -9,4 +9,4 @@ The Wayback Machine is an interesting website. It allows users to view websites 
  ### Work Cycle
  Pretty straight forward this week. I did put off doing the site for longer than I wanted (procrastination at it's finest), but everything fell into place pretty well. I still seem to struggle linking images, but I think i'm finally getting the hang of it.
 
- ![Assignment 2 Screenshot](images/project1workspace.png)
+ ![Assignment 2 Screenshot](project1/images/project1workspace.png)
