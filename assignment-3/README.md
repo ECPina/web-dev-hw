@@ -10,4 +10,5 @@ Structural markup is for the layout and format of your code, such as paragraphs 
 It probably took me longer than it should have to throw this page together. I also got a little carried away with text. I still struggle to get links to work properly and most of the times it's silly little mistakes. I really just like to make things harder on myself.
 
 ## Workspace
-![Assignment 3 Screenshot](assignment-3/images/workspace3.png)
+
+![Assignment 3 Screenshot](images/workspace3.png)
