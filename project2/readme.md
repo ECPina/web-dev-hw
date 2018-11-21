@@ -9,4 +9,4 @@ I'm excited to really get into CSS. I think it will help a lot and make things e
 ## Work Cycle
 Honestly, I think I got a little to excited with my idea and kind of got lost part way though. I had a lot of fun and I'm excited to learn more indepth coding to help with page styling. I may have overkilled it with a few things as well, but hopefully it still looks pretty good.
 
- ![Project 2 Screenshot](project2/images/screenshot.png)
+ ![Project 2 Screenshot](project2/images/project2workspace.png)

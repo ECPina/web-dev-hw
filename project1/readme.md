@@ -1,27 +1,12 @@
-# My Intro-Web-Dev Homework Repo
-## Erica Charmaine Pina
+# Project 1 README
 
-#### Why Am I taking this class?
-Back in 2012-2013, I took a class similar to this and had a lot of fun learning to make websites. I needed to fill some electives, but I also thought a refresher would be good for me. Now, the class at my old college used dreamweaver, so I’m definitely starting fresh with this class. We also primarily worked with CSS and HTML so I’m excited to try and learn something new. It’s feels pretty easy so far and I’m remember bits and pieces from my old class that’s helping.
+### Browsers
+I mainly use google chrome and on the rare occasion, safari. Browers basically funtions as a visual translation for written code known as HTML. Within this code, there can be anything from text and links to cascading style sheets and JavaScript functions.
 
- #### What exactly is the internet?
+### The Wayback Machine
+The Wayback Machine is an interesting website. It allows users to view websites and different times through their history. Essentially, it's an archive. I chose to look at a website I used to visit all the time as a kid called Castle Of Spirts. It was *crazy* how different the site used to look. All the text, body and header, had changed into something a little more crisp and clean. The layout was no longer down the center and there were more links than before. They moved away from the spooky, dark theme and upgraded it to something a little more simple. It brought a sense of nostalgia.
 
-*Things I was interested in:*
-- ARPANET
-- VSAUCE telling me the difference between The Web and The Internet (Love this guy)
+ ### Work Cycle
+ Pretty straight forward this week. I did put off doing the site for longer than I wanted (procrastination at it's finest), but everything fell into place pretty well. I still seem to struggle linking images, but I think i'm finally getting the hang of it.
 
-*Things I learned:*
-- First message sent was: LO
-- The World Wide Web when it first began and what it looked like
-
----
-
-### My Resources
-
-```markdown
-*HTML & CSS: Design and build websites* by **Duckett, J.**
-```
-
-[Intro to Web Design & Development](https://media-ed-online.github.io/intro-web-dev/)
-
-![course banner](http://bit.ly/2DIVG46)
+ ![Assignment 2 Screenshot](project1/images/project1workspace.png)
