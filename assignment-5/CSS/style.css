@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+  font-family: monospace;
+  text-align: center;
+}
+.square {
+  width: 50%;
+  height:50%;
+}
+#purple {
+  background-color: #ad5dc8;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#green {
+  background-color: #b4d366;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+#teal {
+  background-color: #30ccc9;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#black {
+  background-color: #000000;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+img#sticker {
+  height: 100px;
+  position: absolute;
+  top: -20px;
+  right: -50px;
+}
+.text-container {
+  background-color: pink;
+  width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+     -ms-transform: translate(-50%, -50%);
+ -webkit-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+}
+h1+p {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
