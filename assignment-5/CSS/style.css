@@ -3,6 +3,9 @@ body {
   font-family: monospace;
   text-align: center;
 }
+.color-text {
+  color: white;
+}
 .square{
   width:50%;
   height:50%;
